@@ -1,5 +1,5 @@
-theme: jekyll-theme-minimal
-# remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
+# theme: jekyll-theme-minimal
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
 title: Jennifer Hawkin
 logo: /images/Jenny.png
 description: My personal webpage
