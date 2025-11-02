@@ -9,4 +9,4 @@ nav_order: 5
 # Contacts
  
 Would you like to get in touch?
-Please email me [here](mailto:j.l.hawkin@gmail.com)
+Please email me [here](mailto:j.hawkin@sheffield.ac.uk)
