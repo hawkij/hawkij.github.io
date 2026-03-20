@@ -12,7 +12,7 @@ Welcome to my webpage! Read on to find out more...
 
 ## About me
 
-I’m a postdoctoral researcher at the Univerisity of Sheffield, looking into resource efficiency of plastics and chemicals. Two areas of my current work include quantification of petrochemical material flows (and emissions impacts) throughout Europe and the environmental impacts of plastic waste management.
+I’m a postdoctoral researcher at the Univerisity of Sheffield, where I study resource efficiency and environmental impacts related to petrochemical consumption, material production, and energy infrastructure.
 
 During my PhD (in the University of Cambridge, Engineering Dept.) I developed a “calculator" (a computational model based on physical flows) to quantify the aggregated energy demands of Net-Zero proposals. The model estimates the overall demands of carbon storage, non-emitting electricity and biomass which I then compare against feasible availability of those resources. Find out more by playing with our interactive version of [ZERCalc](https://zercalc.web.app/)!
 
