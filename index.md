@@ -4,8 +4,6 @@ title: Home
 nav_order: 1
 ---
 
-<! --- [Home](index.md) | [CV](CV_JH.pdf) | [Contact me](contacts.md) --- !>
-
 # Hello!
 
 Welcome to my webpage! Read on to find out more...
