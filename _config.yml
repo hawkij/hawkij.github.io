@@ -1,5 +1,5 @@
 # theme: jekyll-theme-minimal
-remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
+remote_theme: just-the-docs/just-the-docs
 title: Jennifer Hawkin
 logo: /images/Jenny.jpg
 description: My personal webpage
@@ -12,5 +12,5 @@ aux_links:
     - "https://orcid.org/0000-0001-6663-8494"
 
 aux_links_new_tab: true
-# url: https://hawkij.github.io/
+url: https://hawkij.github.io/
 nav_sort: case_insensitive
