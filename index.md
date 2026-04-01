@@ -4,6 +4,8 @@ title: Home
 nav_order: 1
 ---
 
+%[Home](index.md) | [CV](CV_JH.pdf) | [Contact me](contacts.md)
+
 # Hello!
 
 Welcome to my webpage! Read on to find out more...
@@ -17,5 +19,7 @@ During my PhD at the University of Cambridge (Engineering Dept.) I developed a â
 Previously I worked as a chartered mechanical engineer at Rolls-Royce (for seven years spread across aviation, marine and nuclear), and for Engineers-Without-Borders, EWB (one year in Malaysian Borneo). I have a MEng and BA in Mechanical Engineering from the University of Cambridge.
 
 ## Quick links
+- [LinkedIn](https://www.linkedin.com/in/jennifer-hawkin/)
+- [ORCiD](https://orcid.org/0000-0001-6663-8494)
 - [CV](CV_JH.pdf)
 - [Contact me](contacts.md)
