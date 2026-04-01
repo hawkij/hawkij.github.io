@@ -11,4 +11,6 @@ aux_links:
   ORCiD:
     - "https://orcid.org/0000-0001-6663-8494"
 
+aux_links_new_tab: true
 # url: https://hawkij.github.io/
+nav_sort: case_insensitive
